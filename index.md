@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 	<head>
- 		<meta charset="utf-8">
 		<title>Luke Clark's Resume</title>
+		
  		<link rel="stylesheet" type="text/css" href="css/resumestyle.css">
 	</head>
 	<body>
