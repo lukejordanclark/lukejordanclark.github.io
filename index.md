@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
  		<meta charset="utf-8">
- 		<link rel="stylesheet" href="css/resumestylelukeclark.css">
+ 		<link rel="stylesheet" href="https://github.com/lukejordanclark/lukejordanclark.github.io/blob/resume/resumestylelukeclark.css">
   		<title>Luke Clark's Resume</title>
 	</head>
 	<body>
@@ -11,7 +11,7 @@
 				<header>
 					<h1 id="title">Luke Jordan Clark</h1>
 				</header>
-				<img src="photoforresumelukeclark.jpeg" alt="photo-of-myself">
+				<img src="https://github.com/lukejordanclark/lukejordanclark.github.io/blob/resume/photoForResumeLukeClark.jpeg" alt="photo-of-myself">
 			</div>
 			<div id="parts-of-resume" class="banner-divisions">
 				<h2 class="navigation">Jump to Parts of Resume</h2>
