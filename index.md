@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
  		<meta charset="utf-8">
- 		<link rel="stylesheet" href="https://github.com/lukejordanclark/lukejordanclark.github.io/blob/resume/resumestylelukeclark.css">
+ 		<link rel="stylesheet" href="blob/resume/resumestylelukeclark.css">
   		<title>Luke Clark's Resume</title>
 	</head>
 	<body>
