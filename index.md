@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
  		<meta charset="utf-8">
- 		<link rel="stylesheet" type="text/css" href="css/resumestyle.css">
+ 		<link rel="stylesheet" type="text/css" href="../css/resumestyle.css">
   		<title>Luke Clark's Resume</title>
 	</head>
 	<body>
