@@ -11,7 +11,7 @@
 				<header>
 					<h1 id="title">Luke Jordan Clark</h1>
 				</header>
-				<img src="images/photoforresumelukeclark.jpeg" alt="photo-of-myself">
+				<img src="images/photoForResumeLukeClark.jpeg" alt="photo-of-myself">
 			</div>
 			<div id="parts-of-resume" class="banner-divisions">
 				<h2 class="navigation">Jump to Parts of Resume</h2>
