@@ -39,6 +39,7 @@
 					Personal: <a href="mailto:lclarkalt@gmail.com">lclarkalt@gmail.com</a>
 				</address>
 				<address class="email">
+					<br>
 					School: <a href="mailto:lukeclark@vt.edu">lukeclark@vt.edu</a>
 				</address>
 				<address class="phone-number">
