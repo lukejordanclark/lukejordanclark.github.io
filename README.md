@@ -19,7 +19,7 @@
 						<li><a href="#summary">Summary</a></li>
 						<li><a href="#skills">Skills</a></li>
 						<li><a href="#education">Education</a></li>
-						<li><a href=#honors-and-certifications>Certifications and Honors</a></li>
+						<li><a href="#honors-and-certifications">Certifications and Honors</a></li>
 					</ul>
 				</nav>
 			</div>
