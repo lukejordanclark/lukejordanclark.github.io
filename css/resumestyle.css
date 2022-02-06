@@ -3,7 +3,7 @@ helvetica and size to 90% the default. Changes overall background
 color to black and text color to white */
 body {
 	font-family: helvetica;
-	font-size: 1em;
+	font-size: 90%;
 	background-color: black;
 	color: white;
 }
@@ -31,8 +31,8 @@ institutions section. Changes font to VT's standard font: Acherus Grotesque */
 	border: 0.3em solid #CC5500;
 	background-color: #6A2C3E;
 	display: inline-block;
-	width: 40em;
-	height: 15em;
+	width: 40vw;
+	height: 26vh;
 	font-family: acherus grotesque;
 }
 
@@ -48,14 +48,14 @@ height as the VT section. */
 	display: inline-block;
 	border: 0.3em solid white;
 	vertical-align: top;
-	width: 40em;
-	height: 15em;
+	width: 40vw;
+	height: 26vh;
 }
 
 /* Puts the divisions of the banner into inline blocks */
 .banner-divisions {
 	display: inline-block;
-	width: 40em;
+	width: 40vw;
 }
 
 /* Aligns the inline-block of the navigational section to the top */
@@ -86,8 +86,8 @@ the top. Sets width to 45% and height to 12em. */
 	display: inline-block;
 	border: 0.3em solid white;
 	vertical-align: top;
-	width: 40em;
-	height: 12em;
+	width: 40vw;
+	height: 22vh;
 }
 
 /* Same thing as the #technical-skills selector
@@ -98,8 +98,8 @@ of the soft skills section to lightsteelblue */
 	display: inline-block;
 	border: 0.3em solid white;
 	vertical-align: top;
-	width: 40em;
-	height: 12em;
+	width: 40vw;
+	height: 22vh;
 }
 
 /* Creates global variable banner-size */
@@ -111,7 +111,7 @@ of the soft skills section to lightsteelblue */
 can always fit on top of a section when a navigational
 link is clicked */
 section {
-padding-top: 23em;
+padding-top: 40vh;
 /*padding-top: var(--banner-size);*/
 }
 
@@ -123,15 +123,18 @@ min-height: var(--banner-size);
 
 /* Adds some padding to the bottom of the page
 so that the honors and certifications
-section isn't right on top of the 
-jump to the top of page link */
+section isn't right on the very bottom */
 #honors-and-certifications {
-	padding-bottom: 9em;
+	padding-bottom: 40vh;
 }
 
+/* Changes the width and height of the image
+so that the dimensions look normal */
 img {
-	width: 8em;
-	height: 13em;
+	width: 8vw;
+	height: 20vh;
 }
+
+
 
 
