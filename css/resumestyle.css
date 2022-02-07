@@ -104,7 +104,7 @@ of the soft skills section to lightsteelblue */
 
 /* Creates global variable banner-size */
 :root {
-  --banner-size: 12vh;
+  --banner-size: 12em;
 }
 
 /* Adds padding to sections so that the banner
