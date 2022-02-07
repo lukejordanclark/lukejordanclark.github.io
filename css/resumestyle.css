@@ -3,7 +3,7 @@ helvetica and size to 90% the default. Changes overall background
 color to black and text color to white */
 body {
 	font-family: helvetica;
-	font-size: 2vh;
+	font-size: 1.5vh;
 	background-color: black;
 	color: white;
 }
