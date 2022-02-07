@@ -3,7 +3,7 @@ helvetica and size to 90% the default. Changes overall background
 color to black and text color to white */
 body {
 	font-family: helvetica;
-	font-size: 1vh;
+	font-size: 2vh;
 	background-color: black;
 	color: white;
 }
@@ -104,7 +104,7 @@ of the soft skills section to lightsteelblue */
 
 /* Creates global variable banner-size */
 :root {
-  --banner-size: 12em;
+  --banner-size: 12vh;
 }
 
 /* Adds padding to sections so that the banner
@@ -131,7 +131,7 @@ section isn't right on the very bottom */
 /* Changes the width and height of the image
 so that the dimensions look normal */
 img {
-	width: 8vw;
+	width: 15vh;
 	height: 20vh;
 }
 
