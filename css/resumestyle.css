@@ -31,8 +31,8 @@ institutions section. Changes font to VT's standard font: Acherus Grotesque */
 	border: 0.3em solid #CC5500;
 	background-color: #6A2C3E;
 	display: inline-block;
-	width: 35vw;
-	height: 30vh;
+	width: 40%;
+	height: 40vh;
 	font-family: acherus grotesque;
 }
 
@@ -48,8 +48,8 @@ height as the VT section. */
 	display: inline-block;
 	border: 0.3em solid white;
 	vertical-align: top;
-	width: 35vw;
-	height: 30vh;
+	width: 40%;
+	height: 40vh;
 }
 
 /* Puts the divisions of the banner into inline blocks */
