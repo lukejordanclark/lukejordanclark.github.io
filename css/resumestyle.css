@@ -3,7 +3,7 @@ helvetica and size to 90% the default. Changes overall background
 color to black and text color to white */
 body {
 	font-family: helvetica;
-	font-size: 1.5vh;
+	font-size: 2vh;
 	background-color: black;
 	color: white;
 }
@@ -31,8 +31,8 @@ institutions section. Changes font to VT's standard font: Acherus Grotesque */
 	border: 0.3em solid #CC5500;
 	background-color: #6A2C3E;
 	display: inline-block;
-	width: 35vw;
-	height: 30vh;
+	width: 40vw;
+	height: 26vh;
 	font-family: acherus grotesque;
 }
 
@@ -48,8 +48,8 @@ height as the VT section. */
 	display: inline-block;
 	border: 0.3em solid white;
 	vertical-align: top;
-	width: 35vw;
-	height: 30vh;
+	width: 40vw;
+	height: 26vh;
 }
 
 /* Puts the divisions of the banner into inline blocks */
@@ -104,7 +104,7 @@ of the soft skills section to lightsteelblue */
 
 /* Creates global variable banner-size */
 :root {
-  --banner-size: 12em;
+  --banner-size: 12vh;
 }
 
 /* Adds padding to sections so that the banner
